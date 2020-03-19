@@ -1,5 +1,10 @@
 package com.JavaTest.service;
 
-public class WriteData {
+import com.JavaTest.model.User;
 
+public class WriteData {
+	public WriteData(User[] arrayOfUsers){
+		
+		
+	}
 }
